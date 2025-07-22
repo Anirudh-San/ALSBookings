@@ -1,0 +1,12 @@
+
+setuptools
+Flask==2.2.5
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+Werkzeug==2.2.3
+SQLAlchemy==2.0.25
+pymysql==1.1.0
+python-dotenv==1.0.1
+razorpay==1.4.1
+gunicorn==21.2.0
+cryptography==42.0.6
